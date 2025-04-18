@@ -4,6 +4,7 @@ Object-Oriented Programming is a methodology or paradigm to design a program usi
 
 ## Data Types in Java
 
+
 <table class="alt"> 
 <tbody><tr> 
   <th id="table_dvpt_datatype"><strong>Data Type</strong></th> 
